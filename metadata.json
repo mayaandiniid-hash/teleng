@@ -1,0 +1,6 @@
+{
+  "name": "GameZone & Premium Apps Showcase",
+  "description": "Interactive multi-screen premium app showcase replicating the high-fidelity 3-screen mobile experience with CapCut, Netflix, and top-tier apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
